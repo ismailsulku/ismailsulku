@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## Hello Everyone👋 I'm İsmail Sülkü 23
+## Hello👋 I'm İsmail Sülkü (23)
 ### Electrical Electronic Engineer, Front-End Developer
 
 - 🌱 I’m currently learning Typescript, Angular, MATLAB.
