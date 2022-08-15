@@ -18,7 +18,6 @@ During my undergraduate education, I used Matlab/Simulink programs in the field 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailsulku&show_icons=true&locale=en&layout=compact" alt="ismailsulku" /></p>
 
-
 [![Ismail's github stats](https://github-readme-stats.vercel.app/api?username=ismailsulku&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ### To be completed soon..
