@@ -10,7 +10,8 @@
 
 
 
-## I'm a Electrical Electronic Engineer 👨‍🎓, Front-End Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
+## I'm a Electrical Electronic Engineer 👨‍🎓, 
+   Front-End Developer 🚀
 - 🔭 I’m currently working on a large and special application.
 - 🌱 I’m currently learning 😂
 - 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨
