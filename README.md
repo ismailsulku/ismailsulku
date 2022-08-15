@@ -1,15 +1,4 @@
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-
-
-
-
-
-
-
-
-
 ## I'm a Electrical Electronic Engineer 👨‍🎓, 
    Front-End Developer 🚀
 - 🔭 I’m currently working on a large and special application.
@@ -22,3 +11,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailsulku)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Ismail's github stats](https://github-readme-stats.vercel.app/api?username=ismailsulku&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
